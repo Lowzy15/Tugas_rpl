@@ -1,4 +1,0 @@
--Membuat kebutuhan user
--Membuat database
--Membuat navbar
--Membuat server
